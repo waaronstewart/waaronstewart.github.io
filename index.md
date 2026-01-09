@@ -17,6 +17,4 @@ I am a Ph.D. student at New Mexico State University ...
 
 - **[Jan. 2026]** New Website is up and running
 
-%{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
