@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at New Mexico State University ...
+I am a Ph.D. student at New Mexico State University under the supervision of Prasit Bhattacharya ...
 
 ## Research Interests
 
-- **Equivariant Homotopy Theory and Cohomology**
-- **Higher Toda Brackets**
+- **Equivariant Homotopy Theory**
 
 
 
