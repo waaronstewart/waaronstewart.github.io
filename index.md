@@ -8,7 +8,7 @@ I am a Ph.D. student at New Mexico State University under the supervision of Pra
 
 ## Research Interests
 
-- **Equivariant Homotopy Theory**
+- **Algebraic Topology**: In particular, Equivariant Homotopy Theory, Higher Toda Brackets, and Operads
 
 
 
