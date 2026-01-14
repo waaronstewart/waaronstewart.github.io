@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at New Mexico State University under the supervision of Prasit Bhattacharya, I earn my Bachelor of Science in Mathematics at Western Colorado University, and my Master of Science in Mathematics at New Mexico State University, also under the supervision of Prasit Bhattacharya, My master's presentation was on Operads and A_n Spaces and A_Infinity Spaces.
+I am a Ph.D. student at New Mexico State University under the supervision of Prasit Bhattacharya, I earn my Bachelor of Science in Mathematics at Western Colorado University, and my Master of Science in Mathematics at New Mexico State University, also under the supervision of Prasit Bhattacharya, My master's presentation was on Operads and $A_n$ Spaces and $A_{\infty}$ Spaces.
 
 ## Research Interests
 
