@@ -6,6 +6,9 @@ layout: homepage
 
 I am a Ph.D. student at New Mexico State University under the supervision of Prasit Bhattacharya, I earn my Bachelor of Science in Mathematics at Western Colorado University, and my Master of Science in Mathematics at New Mexico State University, also under the supervision of Prasit Bhattacharya, My master's presentation was on Operads and $A_n$ Spaces and $A_{\infty}$ Spaces.
 
+When I am not doing mathematics, I play music and engage in a variety of endurance sports.
+
+My Favorite author is Thomas Pynchon. This is not relevant information to know. But unavoidable in the sharing.
 ## Research Interests
 
 - **Equivariant Homotopy Theory**
