@@ -13,7 +13,7 @@ My Favorite author is Thomas Pynchon. This is not relevant information to know. 
 
 - **Equivariant Homotopy Theory**
 - **Higher Categorical Algebra**
-  **Operads**
+ - **Operads**
 
 
 
