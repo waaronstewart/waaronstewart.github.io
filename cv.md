@@ -6,7 +6,7 @@ description: "Curriculum vitae of Aaron Stewart."
 ---
 
 A full CV is available as a PDF: [download CV](/assets/cv.pdf).
-<span class="muted">(Drop your <code>cv.pdf</code> into the <code>assets/</code> folder to enable this link.)</span>
+
 
 ## Education
 
