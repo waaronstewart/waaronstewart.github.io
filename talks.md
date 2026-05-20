@@ -20,4 +20,4 @@ description: "Talks and presentations by Aaron Stewart."
   <span class="etitle">Introduction to Operads</span><br>
   <span class="emeta">Geometry and Topology Seminar, New Mexico State University. January 24, 2025.</span>
 </div>
-====================================================== -->
+
