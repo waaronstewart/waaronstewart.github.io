@@ -1,0 +1,14 @@
+<nav class="site-nav" aria-label="Primary">
+  <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  <ul class="nav-links">
+    {%- for item in site.nav -%}
+      {%- assign cur = page.url | remove: 'index.html' -%}
+      <li>
+        <a href="{{ item.url | relative_url }}"
+           {% if cur == item.url %}class="active" aria-current="page"{% endif %}>
+          {{ item.title }}
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>

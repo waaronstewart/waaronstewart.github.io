@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <div class="wrap">
+    {% include nav.html %}
+    <main class="content">
+      {% if page.title and page.show_title != false and page.url != "/" %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+</body>
+</html>
