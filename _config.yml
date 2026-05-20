@@ -1,0 +1,41 @@
+# --- Site settings ---
+title: Aaron Stewart
+tagline: Ph.D. Student in Mathematics
+description: >-
+  Aaron Stewart — Ph.D. student in mathematics at New Mexico State University,
+  working in homotopy theory, algebraic topology, and higher categorical algebra.
+author: Aaron Stewart
+email: wastewar@nmsu.edu
+
+# For a GitHub *user* site (waaronstewart.github.io) leave baseurl empty.
+url: "https://waaronstewart.github.io"
+baseurl: ""
+
+# --- Build settings ---
+markdown: kramdown
+kramdown:
+  # math_engine null => kramdown leaves $...$ and $$...$$ untouched so that
+  # MathJax can render them in the browser (matches your current site).
+  math_engine: null
+  syntax_highlighter: rouge
+
+# --- Top navigation (edit / reorder here) ---
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+
+# --- Files Jekyll should ignore ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+  - README.md
