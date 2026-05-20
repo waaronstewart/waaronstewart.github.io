@@ -11,7 +11,7 @@ description: "Aaron Stewart — Ph.D. student in mathematics at New Mexico State
 <p class="subtitle">Ph.D. Student in Mathematics · New Mexico State University</p>
 
 I am a Ph.D. student at New Mexico State University, working under the supervision
-of [Prasit Bhattacharya](https://www.prasit.org/). I earned my B.S. in Mathematics
+of [Prasit Bhattacharya](https://sites.google.com/view/prasit0605/home). I earned my B.S. in Mathematics
 at Western Colorado University and my M.S. in Mathematics at New Mexico State
 University, also under the supervision of Prasit Bhattacharya. My master's thesis
 presentation was on *operads, $A_n$ spaces and $A_\infty$ spaces*, with an emphasis
