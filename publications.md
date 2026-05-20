@@ -5,8 +5,7 @@ permalink: /publications/
 description: "Publications and preprints by Aaron Stewart."
 ---
 
-Preprints and published work will appear here. To add an entry, copy the block
-below and edit it.
+Preprints and published work will appear here. 
 
 <!-- ===== Template — duplicate per paper, newest first =====
 <div class="entry">
