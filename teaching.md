@@ -16,7 +16,7 @@ Graduate Assistant, New Mexico State University (August 2022 – present).
 
 <div class="entry">
   <span class="etitle">Intermediate Algebra</span><br>
-  <span class="emeta">Fall 2024, Spring 2025, Fall 2025.</span>
+  <span class="emeta">Fall 2024, Spring 2025, Fall 2025, Fall 2026.</span>
 </div>
 
 <div class="entry">
@@ -28,7 +28,7 @@ Graduate Assistant, New Mexico State University (August 2022 – present).
 
 <div class="entry">
   <span class="etitle">Applications of Calculus</span><br>
-  <span class="emeta">Grading, recitation, office hours. Fall 2022, Spring 2024, Fall 2024, Spring 2025, Fall 2025.</span>
+  <span class="emeta">Grading, recitation, office hours. Fall 2022, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Fall 2026.</span>
 </div>
 
 <div class="entry">
